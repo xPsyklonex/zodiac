@@ -1,0 +1,28 @@
+/* font-family: 'Metal Mania', cursive;
+font-family: 'Loved by the King', cursive; */
+body{
+    text-align: center;
+    color: antiquewhite;
+    background-color: black;
+    font-family: 'Metal Mania', cursive;
+}
+
+.bar{
+    margin: 30px;
+}
+h1{
+
+    margin: 20px;
+}
+.row{
+    text-align: center;
+}
+
+#sign{
+    opacity: .75;
+}
+
+#painting{
+    position: absolute;
+    
+}
