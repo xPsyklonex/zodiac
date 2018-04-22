@@ -15,8 +15,15 @@ h1{
     margin: 20px;
 }
 .row{
-    text-align: center;
+    color: darkred;
 }
+.text{
+    text-align: center;
+    color: darkred;
+    font-size: 18px;
+    margin-top: 150px;
+}
+
 
 #sign{
     opacity: .75;
@@ -25,4 +32,9 @@ h1{
 #painting{
     position: absolute;
     
+}
+
+p{
+    font-family: 'Loved by the King', cursive;
+    background: rgba(0, 0, 0, .85) 
 }
